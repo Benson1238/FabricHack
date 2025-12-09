@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "fabrichack",
+  "version": "${version}",
+  "name": "Fabric Hack Client",
+  "description": "Lightweight client with configurable HUD and PvP helpers.",
+  "authors": ["GPT-5.1-Codex-Max"],
+  "contact": {
+    "sources": "https://example.com/fabrichack"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.fabrichack.FabricHackClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.3",
+    "minecraft": "1.21.x",
+    "java": ">=21",
+    "fabric": "*"
+  }
+}

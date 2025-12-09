@@ -1,0 +1,7 @@
+{
+  "modmenu.descriptionTranslation.fabrichack": "Lightweight client with configurable HUD and PvP helpers.",
+  "category.fabrichack": "Fabric Hack",
+  "key.fabrichack.open_gui": "Open Click GUI",
+  "key.fabrichack.hud_editor": "Open HUD Editor",
+  "key.fabrichack.freelook": "Freelook (Better Third Person)"
+}
